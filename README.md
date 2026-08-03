@@ -32,22 +32,37 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shamshad_9011) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shamshad-ansari-636348305/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shamshadansari43984@gmail.com) 
 
- <h2 align="center">🛠️ TECH STACK</h2>
-
-<h3>💻 LANGUAGES</h3>
-<p>☕ JAVA • 🌐 JAVASCRIPT • 🐘 SQL</p>
-
-<h3>⚙️ BACKEND</h3>
-<p>🍃 SPRING BOOT • 🔗 SPRING DATA JPA • 🔐 SPRING SECURITY • 🌐 REST API</p>
-
-<h3>🗄️ DATABASE</h3>
-<p>🐬 MYSQL • 🐘 POSTGRESQL • 🍃 MONGODB • ⚡ REDIS</p>
-
-<h3>🎨 FRONTEND</h3>
-<p>⚛️ REACT • 🎨 HTML5 • 🎨 CSS3</p>
-
-<h3>🛠️ TOOLS</h3>
-<p>🐧 LINUX • 🐳 DOCKER • 📝 GIT • 🐙 GITHUB • 📬 POSTMAN • ⚙️ MAVEN</p>
+ 🛠️ TECH STACK
+│
+├── 💻 LANGUAGES
+│   ├── JAVA
+│   ├── JAVASCRIPT
+│   └── SQL
+│
+├── ⚙️ BACKEND
+│   ├── SPRING BOOT
+│   ├── SPRING DATA JPA
+│   ├── SPRING SECURITY
+│   └── REST API
+│
+├── 🗄️ DATABASE
+│   ├── MYSQL
+│   ├── POSTGRESQL
+│   ├── MONGODB
+│   └── REDIS
+│
+├── 🎨 FRONTEND
+│   ├── REACT
+│   ├── HTML5
+│   └── CSS3
+│
+└── 🛠️ TOOLS
+    ├── LINUX
+    ├── DOCKER
+    ├── GIT
+    ├── GITHUB
+    ├── POSTMAN
+    └── MAVEN
 ## 🏆 GITHUB TROPHIES
 
 <p align="center">
