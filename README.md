@@ -32,33 +32,22 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shamshad_9011) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shamshad-ansari-636348305/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shamshadansari43984@gmail.com) 
 
-# 💻 Tech Stack:
- Languages              
-☕ Java
-🌐 JavaScript
-🐘 SQL
-Backend
-🍃 Spring Boot
-🔗 Spring Data JPA
-🔐 Spring Security
-🌐 REST API
-Database
-🐬 MySQL
-🐘 PostgreSQL
-🍃 MongoDB
-⚡ Redis
-Frontend
-⚛️ React
-🎨 HTML5
-🎨 CSS3
-Tools
-🐧 Linux
-🐳 Docker
-📝 Git
-🐙 GitHub
-📬 Postman
-⚙️ Maven
- 
+ # 🛠️ 𝗧𝗘𝗖𝗛 𝗦𝗧𝗔𝗖𝗞
+
+### 💻 𝗟𝗔𝗡𝗚𝗨𝗔𝗚𝗘𝗦
+☕ **𝗝𝗔𝗩𝗔** • 🌐 **𝗝𝗔𝗩𝗔𝗦𝗖𝗥𝗜𝗣𝗧** • 🐘 **𝗦𝗤𝗟**
+
+### ⚙️ 𝗕𝗔𝗖𝗞𝗘𝗡𝗗
+🍃 **𝗦𝗣𝗥𝗜𝗡𝗚 𝗕𝗢𝗢𝗧** • 🔗 **𝗦𝗣𝗥𝗜𝗡𝗚 𝗗𝗔𝗧𝗔 𝗝𝗣𝗔** • 🔐 **𝗦𝗣𝗥𝗜𝗡𝗚 𝗦𝗘𝗖𝗨𝗥𝗜𝗧𝗬** • 🌐 **𝗥𝗘𝗦𝗧 𝗔𝗣𝗜**
+
+### 🗄️ 𝗗𝗔𝗧𝗔𝗕𝗔𝗦𝗘
+🐬 **𝗠𝗬𝗦𝗤𝗟** • 🐘 **𝗣𝗢𝗦𝗧𝗚𝗥𝗘𝗦𝗤𝗟** • 🍃 **𝗠𝗢𝗡𝗚𝗢𝗗𝗕** • ⚡ **𝗥𝗘𝗗𝗜𝗦**
+
+### 🎨 𝗙𝗥𝗢𝗡𝗧𝗘𝗡𝗗
+⚛️ **𝗥𝗘𝗔𝗖𝗧** • 🎨 **𝗛𝗧𝗠𝗟𝟱** • 🎨 **𝗖𝗦𝗦𝟯**
+
+### 🛠️ 𝗧𝗢𝗢𝗟𝗦
+🐧 **𝗟𝗜𝗡𝗨𝗫** • 🐳 **𝗗𝗢𝗖𝗞𝗘𝗥** • 📝 **𝗚𝗜𝗧** • 🐙 **𝗚𝗜𝗧𝗛𝗨𝗕** • 📬 **𝗣𝗢𝗦𝗧𝗠𝗔𝗡** • ⚙️ **𝗠𝗔𝗩𝗘𝗡**
 ## 🏆 GITHUB TROPHIES
 
 <p align="center">
