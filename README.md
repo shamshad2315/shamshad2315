@@ -32,37 +32,38 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shamshad_9011) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shamshad-ansari-636348305/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shamshadansari43984@gmail.com) 
 
- 🛠️ TECH STACK
-│
+ ## 🛠️ TECH STACK
+
+📦 TECH STACK
 ├── 💻 LANGUAGES
-│   ├── JAVA
-│   ├── JAVASCRIPT
-│   └── SQL
+│   ├── ☕ JAVA
+│   ├── 🌐 JAVASCRIPT
+│   └── 🐘 SQL
 │
 ├── ⚙️ BACKEND
-│   ├── SPRING BOOT
-│   ├── SPRING DATA JPA
-│   ├── SPRING SECURITY
-│   └── REST API
+│   ├── 🍃 SPRING BOOT
+│   ├── 🔗 SPRING DATA JPA
+│   ├── 🔐 SPRING SECURITY
+│   └── 🌐 REST API
 │
 ├── 🗄️ DATABASE
-│   ├── MYSQL
-│   ├── POSTGRESQL
-│   ├── MONGODB
-│   └── REDIS
+│   ├── 🐬 MYSQL
+│   ├── 🐘 POSTGRESQL
+│   ├── 🍃 MONGODB
+│   └── ⚡ REDIS
 │
 ├── 🎨 FRONTEND
-│   ├── REACT
-│   ├── HTML5
-│   └── CSS3
+│   ├── ⚛️ REACT
+│   ├── 🎨 HTML5
+│   └── 🎨 CSS3
 │
 └── 🛠️ TOOLS
-    ├── LINUX
-    ├── DOCKER
-    ├── GIT
-    ├── GITHUB
-    ├── POSTMAN
-    └── MAVEN
+    ├── 🐧 LINUX
+    ├── 🐳 DOCKER
+    ├── 📝 GIT
+    ├── 🐙 GITHUB
+    ├── 📬 POSTMAN
+    └── ⚙️ MAVEN
 ## 🏆 GITHUB TROPHIES
 
 <p align="center">
