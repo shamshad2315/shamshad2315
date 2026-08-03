@@ -1,5 +1,32 @@
- # 💫 About Me:
-🔭 I'm currently working on  <br>- Java programming  <br>- Data Structures & Algorithms (DSA)  <br>- Small projects using Java & GitHub  <br><br>👯 I'm looking to collaborate on  <br>- Beginner-friendly Java projects  <br>- Open-source projects (good first issues)  <br>- DSA practice & learning groups  <br><br>🤝 I'm looking for help with  <br>- Improving problem-solving skills  <br>- Clean code & best practices  <br>- Git & GitHub workflow  <br><br>🌱 I'm currently learning  <br>- Core Java  <br>- DSA (Arrays, LinkedList, Stack, Queue)  <br>- Git, GitHub & Linux (Fedora)  <br><br>💬 Ask me about  <br>- Java basics  <br>- GitHub & student tools  <br>- Linux basic commands  <br><br>⚡ Fun fact  <br>- I learn best by breaking things and fixing them 😄<br>
+ # 💫 ABOUT ME:
+
+🔭 I'M CURRENTLY WORKING ON
+- JAVA PROGRAMMING
+- DATA STRUCTURES & ALGORITHMS (DSA)
+- SMALL PROJECTS USING JAVA & GITHUB
+
+👯 I'M LOOKING TO COLLABORATE ON
+- BEGINNER-FRIENDLY JAVA PROJECTS
+- OPEN SOURCE PROJECTS (GOOD FIRST ISSUES)
+- DSA PRACTICE & LEARNING GROUPS
+
+🤝 I'M LOOKING FOR HELP WITH
+- IMPROVING PROBLEM-SOLVING SKILLS
+- WRITING CLEAN CODE & FOLLOWING BEST PRACTICES
+- GIT & GITHUB WORKFLOW
+
+🌱 I'M CURRENTLY LEARNING
+- CORE JAVA
+- DATA STRUCTURES & ALGORITHMS (ARRAYS, LINKED LIST, STACK, QUEUE)
+- GIT, GITHUB & LINUX (FEDORA)
+
+💬 ASK ME ABOUT
+- JAVA BASICS
+- GITHUB & STUDENT DEVELOPER TOOLS
+- LINUX BASIC COMMANDS
+
+⚡ FUN FACT
+- I LEARN BEST BY BREAKING THINGS AND FIXING THEM. 😄
 
 
 ## 🌐 Socials:
