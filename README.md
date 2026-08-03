@@ -58,8 +58,18 @@ Tools
 🐙 GitHub
 📬 Postman
 ⚙️ Maven
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=shamshad2315&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+ 
+## 🏆 GITHUB TROPHIES
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shamshad2315&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shamshad2315&theme=onedark&no-frame=true&no-bg=true&column=4&margin-w=15" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shamshad2315&theme=radical&no-frame=true&no-bg=true&column=4" />
+</p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
